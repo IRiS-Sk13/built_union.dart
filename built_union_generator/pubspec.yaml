@@ -15,7 +15,7 @@ dependencies:
     git:
       url: https://github.com/bt-amal/built_union.dart.git
       path: built_union
-  analyzer: '>=4.4.0 <6.0.0'
+  analyzer: ^6.8.0
   source_gen: '>=0.9.0 <2.0.0'
   meta: ^1.3.0
 
